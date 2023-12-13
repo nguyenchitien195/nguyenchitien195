@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
+<a href="https://app.daily.dev/nguyenchitien195"><img src="https://api.daily.dev/devcards/1ffc4726582b43918d9aeeb4a1cfd37a.png?r=qmw" width="400" alt="Nguyen Chi Tien's Dev Card"/></a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyenchitien195&theme=dark)](https://git.io/streak-stats)
